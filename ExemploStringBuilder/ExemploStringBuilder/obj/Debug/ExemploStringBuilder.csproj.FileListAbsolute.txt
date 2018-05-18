@@ -1,0 +1,7 @@
+C:\Users\104962\Documents\GitHub\ExemploStringBuilder\ExemploStringBuilder\ExemploStringBuilder\bin\Debug\ExemploStringBuilder.exe.config
+C:\Users\104962\Documents\GitHub\ExemploStringBuilder\ExemploStringBuilder\ExemploStringBuilder\obj\Debug\ExemploStringBuilder.csprojResolveAssemblyReference.cache
+C:\Users\104962\Documents\GitHub\ExemploStringBuilder\ExemploStringBuilder\ExemploStringBuilder\obj\Debug\ExemploStringBuilder.Form1.resources
+C:\Users\104962\Documents\GitHub\ExemploStringBuilder\ExemploStringBuilder\ExemploStringBuilder\obj\Debug\ExemploStringBuilder.Program.resources
+C:\Users\104962\Documents\GitHub\ExemploStringBuilder\ExemploStringBuilder\ExemploStringBuilder\obj\Debug\ExemploStringBuilder.Properties.Resources.resources
+C:\Users\104962\Documents\GitHub\ExemploStringBuilder\ExemploStringBuilder\ExemploStringBuilder\obj\Debug\ExemploStringBuilder.csproj.GenerateResource.Cache
+C:\Users\104962\Documents\GitHub\ExemploStringBuilder\ExemploStringBuilder\ExemploStringBuilder\obj\Debug\ExemploStringBuilder.Exemplo02.resources
